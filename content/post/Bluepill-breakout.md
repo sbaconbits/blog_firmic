@@ -1,7 +1,7 @@
 +++
 date = "2019-02-10T13:00:00+01:00"
 draft = true
-title = ""
+title = "Bluepill breakout"
 tags = ["stm32","bluepill","gerber"]
 categories= ["tip-holder"]
 banner = "banners/bluepill_breakout_real.jpg"
