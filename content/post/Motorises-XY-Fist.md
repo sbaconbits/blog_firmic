@@ -2,7 +2,7 @@
 date = "2018-10-23T13:00:00+01:00"
 draft = true
 title = "X-Y Stage first attempt"
-tags = ["stm32","trimanic","stepper-motor", "cortex-m3"]
+tags = ["stm32","trimanic","stepper-motor", "cortex-m3","bluepill"]
 categories= ["motorised-xy"]
 banner = "banners/Motorised_XY_banner.png"
 +++
