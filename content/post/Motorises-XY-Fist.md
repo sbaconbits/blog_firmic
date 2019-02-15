@@ -30,6 +30,8 @@ My new favourite microcontroller board for small projects is the [bluepill](http
 
 The motor drivers i'm using are the Trinamic [TMC2100](https://www.trinamic.com/products/integrated-circuits/details/tmc2100/) drivers, they are amazingly quiet and have become very popular in the 3D printing world.
 
+The software for this project just reads two potentiometers on the joystick using an ADC and uses a timer to produce a "step" signal to the two motor driver boards, it's simple, but a complete mess so I wont be putting it on github.
+
 Here is a hi-red picture of the current setup:
 
 ![Motorised X-Y stage (v0.1)](/images/Motorised_xy_basic.jpg)
