@@ -3,7 +3,7 @@ date = "2019-02-10T13:00:00+01:00"
 draft = true
 title = "Bluepill breakout"
 tags = ["stm32","bluepill","gerber"]
-categories= ["tip-holder"]
+categories= ["bluepill"]
 banner = "banners/bluepill_breakout_real.jpg"
 +++
 

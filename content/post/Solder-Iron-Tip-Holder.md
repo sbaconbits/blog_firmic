@@ -19,7 +19,7 @@ I bought it from [aliexpress](https://www.aliexpress.com/item/KSGER-Soldering-St
 
 The only problem i've had with it is the aluminium handle version that I got had a bit of a tolerance related problem and needed a bit of fiddling with until it made a reliable connection with the cartridge. 
 
-Now that I have a new iron with load of tips I need somewhere to put them, another excuse to 3D print something. I started off by modelling the tip and arranged some of them in positions that I want them to be held. The next stage was to draw a profile to revolve to make a circular holder as you can see in the image below:
+Now that I have a new iron with loads of tips I need somewhere to put them, another excuse to 3D print something. I started off by modelling the tip and arranged some of them in the positions that I want them to be held. The next stage was to draw a profile to revolve to make a circular holder as you can see in the image below:
 ![Profile of holder in CAD](/images/tip_holder_profile.png)
 
 Once the profile has been revolved and the tips have been subtracted, the model looks like this:
